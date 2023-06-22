@@ -1,7 +1,5 @@
 # JobScraper
-JobScraper is a Python script that automates the process of scraping job websites and fetching job details. It provides a convenient way to gather relevant job information from job portals.
-
-It fetches Job From "Cermati Fintech Group" website.
+JobScraper is a Python script that automates the process of scraping job websites and fetching job details. It provides a convenient way to gather relevant job information from "Cermati Fintech Group".
 
 Data output: The fetched job details are stored in a structured format, such as JSON, making it simple to analyze and manipulate the data further.
 
